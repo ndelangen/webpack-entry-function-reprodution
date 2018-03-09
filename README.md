@@ -1,5 +1,7 @@
 # The bundler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ndelangen/webpack-entry-function-reprodution.svg)](https://greenkeeper.io/)
+
 This subproject is an experiment on efficient webpack building, rebuilding, caching.
 
 ## Goals
